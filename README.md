@@ -10,7 +10,7 @@ This is a fully-functional e-commerce website exactly like amazon. I built an e-
 - Redux: Store, Reducers, Actions
 - Node & Express: Web API, Body Parser, File Upload, JWT
 - MongoDB: Mongoose, Aggregation
-- Development: ESLint, Babel, Git, Github
+
 
 
 
